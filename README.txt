@@ -1,0 +1,1 @@
+This application is a background gradient generator to generate nice looking backgrounds
